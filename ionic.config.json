@@ -1,0 +1,8 @@
+{
+  "name": "EPerform",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "24f604b7"
+}
